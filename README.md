@@ -19,3 +19,8 @@ java PegSolitaireGame
 
 # Sample Game Demo
 
+
+
+
+https://github.com/rsambangi/Peg-Solitaire/assets/143136941/18e590ba-3079-48da-bf40-af89c2b814bd
+
