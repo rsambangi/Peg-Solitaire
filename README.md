@@ -15,7 +15,6 @@ Peg Solitaire is a variation of Solitaire in which the player has to configure t
 ```
 javac PegSolitaireGame.java
 java PegSolitaireGame
-
 ```
 
 # Sample Game Demo
