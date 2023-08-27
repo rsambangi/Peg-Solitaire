@@ -1,6 +1,6 @@
 # Peg Solitaire
 
-Peg Solitaire is a variation of Solitaire in which the player has to configure their board to where there is only one peg left.
+Peg Solitaire is a variation of Solitaire in which the player has to configure their peg board layout to where there is only one peg left.
 
 # How The Game Works
 
