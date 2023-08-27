@@ -12,10 +12,10 @@ Peg Solitaire is a variation of Solitaire in which the player has to configure t
   * There are no more possible moves to be made (LOSE)
 
 # How To Run The Game
-'''
+```
 javac PegSolitaireGame.java
 java PegSolitaireGame
 
-'''
+```
 
 # Sample Game Demo
